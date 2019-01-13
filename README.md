@@ -44,3 +44,9 @@ Once the update goes through, show the customer the total cost of their purchase
 <img width="569" alt="screen shot 2019-01-13 at 10 22 14 am" src="https://user-images.githubusercontent.com/43393527/51087786-2b551f00-171d-11e9-8bf6-02a6e394d68b.png">
 
 <img width="795" alt="screen shot 2019-01-13 at 10 21 04 am" src="https://user-images.githubusercontent.com/43393527/51087793-360fb400-171d-11e9-8496-3272e9c12155.png">
+
+
+
+<img width="752" alt="screen shot 2019-01-13 at 10 25 04 am" src="https://user-images.githubusercontent.com/43393527/51087827-a3234980-171d-11e9-9fe2-da7d7ea3e6fb.png">
+
+<img width="390" alt="screen shot 2019-01-13 at 10 25 28 am" src="https://user-images.githubusercontent.com/43393527/51087831-a8809400-171d-11e9-9408-b7588c08a4a6.png">
