@@ -63,7 +63,7 @@ if (err) throw err;
 console.table(results);
 });
 
-console.log("Thank you for shopping at Dylan's Bamazon shop!");
+
 
 
 
