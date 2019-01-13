@@ -58,4 +58,13 @@ inquirer.prompt([
   var quantity = input.quantity;
 })
 
+connection.query("SELECT * FROM products", function (err, results) {
+if (err) throw err;
+console.table(results);
+});
+
+console.log("Thank you for shopping at Dylan's Bamazon shop!");
+
+
+
 
