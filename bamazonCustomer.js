@@ -25,8 +25,14 @@ function start() {
      console.table(results);
      productID();
 
-    });
-}
+// I created a for loop that will send back a response for the Values console.logged below
+     for (var i = 0; i < res.length; i++) {
+         console.log("ID: " + res[i].id + " | "  + "Product: " + res[i].product_name + " | " + "Department: " + res[i].department_name + " | " + "Price: " + res[i].price + " | " + "Quantitiy: " + res[i].stock_quantity);
+     }
+
+    }); itemRequest();
+};
+
 
 
 
