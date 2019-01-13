@@ -33,6 +33,29 @@ function start() {
     }); itemRequest();
 };
 
+// Prompting the user about what Item they would like to purchase
+inquirer.prompt([
+{
+    type: "input",
+    name: "id",
+    message: "Enter the ID number for the instrument you would like to purchase!",
+},
+{
+    name: "quantity",
+    type: "input",
+    message: "How many would you like to buy?",
+    validate: function(value) {
+        if (isNaN(value) === false) {
+            return true;
+        }
+            return false;
+    }
+}])
 
+// I am validating inputs from the user in this section
+.then(function(answer) {
+  var product = input.id;
+  var quantity = input.quantity;
+})
 
 
